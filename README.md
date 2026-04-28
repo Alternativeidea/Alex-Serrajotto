@@ -3,8 +3,6 @@
 **Founder of Alternative Idea | Product Manager | Full-Stack Developer in Progress**  
 *“Building digital products, scalable systems, and impactful solutions through design, strategy, and development.”*
 
-![Profile Badge](https://img.shields.io/badge/-GitHub_Profile-blue?style=for-the-badge&logo=github)
-
 ---
 
 ## About Me 👋
