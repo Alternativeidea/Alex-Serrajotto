@@ -14,17 +14,17 @@ With over 8 years of experience in digital product development and entrepreneurs
 I work at the intersection of business vision and technical execution — helping teams transform ideas into high-converting websites, applications, platforms, and systems that scale.
 
 - 💼 **Current Role**: Founder of Alternative Idea — Creative Tech Studio focused on digital products, web development, and product strategy  
-- 🎓 **Education**: Currently enrolled in the Metana Full-Stack Bootcamp (MERN Stack Development)  
+- 🎓 **Education**: Currently enrolled in the Metana Full-Stack Bootcamp 
 - 🌱 **Currently Learning**: Full-Stack Development  
-- 🛠️ **Interests**: AI, Product building, music production, DJing, business systems, automation, Web3, and event creation  
+- 🛠️ **Interests**: AI, Product building, music production, business systems, automation & Web3
 
 ---
 
 ## Currently Working On 🚀
 
 - Full-Stack Development at Metana Bootcamp
-- Product strategy and CRO optimization for high-converting platforms
-- Automation systems using n8n + Notion + CRM workflows
+- UX/UI, Product strategy and CRO optimization for high-converting platforms
+- Automation systems using n8n + AI + Notion + CRM workflows
 - Building scalable digital systems for startups and agencies
 
 ---
@@ -34,14 +34,13 @@ I work at the intersection of business vision and technical execution — helpin
 Here’s how my repositories are organized:
 
 - **Metana Bootcamp Projects**: Exercises, assignments, and full-stack projects from my learning journey  
-- **Professional Projects**: Real-world client projects focused on UX/UI, web platforms, CRO, and business systems  
+- **Professional Projects**: Real-world client projects focused on UX/UI, web platforms and business systems 
 - **Personal Experiments**: Practice projects, automation systems, and technical exploration  
 - **Open-Source & Learning**: Git practice, development fundamentals, and continuous improvement projects  
 
 ### Popular Repositories
 
 - **Metana Exercises**: Bootcamp assignments focused on programming fundamentals, logic building, Git workflows, and full-stack foundations  
-- **Professional Projects**: https://www.mwevgroup.com/portfolio
 
 ---
 
@@ -52,17 +51,17 @@ Here’s how my repositories are organized:
 - **Description**: A collection of programming exercises, logic-building tasks, Git workflows, and foundational full-stack development assignments completed during the Metana Full-Stack Bootcamp program.
 - **Features**: Pseudocode practice, flowcharts, Git & GitHub workflows, JavaScript fundamentals, problem-solving exercises, and project collaboration using Pull Requests.
 - **Tech Stack**: Git, GitHub, JavaScript, HTML, CSS, VS Code  
-- **Live Demo**: Learning repository (no live demo)  
 - **GitHub Link**: https://github.com/Alternativeidea/Metana
 
 ---
 
 ### Alternative Idea — Client Product Development
 
-- **Description**: Real-world client projects focused on designing and developing high-converting websites, digital platforms, and business systems for startups, agencies, and growing companies.
+- **Description**: Real-world client projects focused on designing and developing high-converting websites, digital platforms, brand & positioning and business systems for startups, agencies, and growing companies.
 - **Features**: UX/UI design, Webflow development, CRO optimization, CRM automation, project management, and full product delivery from idea to launch.
 - **Tech Stack**: Figma, Webflow, Google Analytics, Microsoft Clarity, n8n, Notion  
-- **Live Demo**: Selected live client projects available upon request  
+- **Live Demo**: Selected live client projects available upon request
+- **Professional Projects**: https://www.mwevgroup.com/portfolio  
 
 ---
 
